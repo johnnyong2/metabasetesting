@@ -8,5 +8,3 @@ services:
     envVars:
       - key: MB_DB_FILE
         value: /app/metabase.db
-    ports:
-      - port: 3000
